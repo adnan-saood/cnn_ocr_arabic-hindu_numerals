@@ -1,1 +1,0 @@
-remember to extract the number of variables and number of layers
